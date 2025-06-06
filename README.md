@@ -1,3 +1,4 @@
+![git/assets/preview.gif](git/assets/preview.gif)
 
 <h3 align="center">
   Amethyst Dotfiles
@@ -62,11 +63,12 @@ A clean Linux setup featuring the Mocha palette from the famous [**Catppuccin Pa
 - Weather on Panel: [Weather or Not](https://gitlab.gnome.org/somepaulo/weather-or-not) by [Paulo Fino](https://gitlab.gnome.org/somepaulo)
 
 ## 🖼️ Gallery
-<img width=800 src="https://github.com/aevstiel/amethyst/raw/master/git/assets/screenshot1.png">
-<img width=800 src="https://github.com/aevstiel/amethyst/raw/master/git/assets/screenshot2.png">
-<img width=800 src="https://github.com/aevstiel/amethyst/raw/master/git/assets/screenshot3.png">
-<img width=800 src="https://github.com/aevstiel/amethyst/raw/master/git/assets/screenshot4.png">
-<img width=800 src="https://github.com/aevstiel/amethyst/raw/master/git/assets/screenshot5.png">
+<img width=800 src="https://github.com/Aevstiel/amethyst/blob/main/git/assets/screenshot1.png">
+<img width=800 src="https://github.com/Aevstiel/amethyst/blob/main/git/assets/screenshot2.png">
+<img width=800 src="https://github.com/Aevstiel/amethyst/blob/main/git/assets/screenshot3.png">
+<img width=800 src="https://github.com/Aevstiel/amethyst/blob/main/git/assets/screenshot4.png">
+<img width=800 src="https://github.com/Aevstiel/amethyst/blob/main/git/assets/screenshot5.png">
+<img width=800 src="https://github.com/Aevstiel/amethyst/blob/main/git/assets/screenshot6.png">
 
 # Instructions
 To be added soon
