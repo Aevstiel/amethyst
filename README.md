@@ -70,5 +70,30 @@ A clean Linux setup featuring the Mocha palette from the famous [**Catppuccin Pa
 <img width=800 src="https://github.com/Aevstiel/amethyst/blob/main/git/assets/screenshot5.png">
 <img width=800 src="https://github.com/Aevstiel/amethyst/blob/main/git/assets/screenshot6.png">
 
-# Instructions
-To be added soon
+# 🛠️ Instructions
+
+## GDM Theme
+GDM is notoriously difficult to customize, you need to make a .xml file then compile stuff and it's a whole mess. I've already done most of the hard word, the rest should be easy.
+
+### Download the gnome shell theme
+
+It is available here [here](https://github.com/Aevstiel/amethyst/tree/main/.themes/Catppuccin/gnome-shell)
+
+### Backup the original gnome theme
+
+```sudo cp /usr/share/gnome-shell/gnome-shell-theme.gresource /usr/share/gnome-shell/gnome-shell-theme-original.gresource```
+
+### Copy the gresources file into the gnome shell directory
+
+After changing directory to the gnome shell one you just downloaded, execute this command:
+
+```sudo cp ./gnome-shell-theme.gresource /usr/share/gnome-shell```
+
+### Reboot and enjoy
+
+If following these steps doesn't work, kindly submit and issue and I will get back as soon as possible.
+
+## 📋 To Do
+
+- Upload the Icons and Cursor
+- Add instructions for the rest
