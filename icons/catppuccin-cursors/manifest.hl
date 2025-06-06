@@ -1,0 +1,4 @@
+name = Catppuccin Mocha Mauve
+description = based on Volantes Cursors
+version = "v2.0.0" # x-release-please-version
+cursors_directory = hyprcursors
