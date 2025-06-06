@@ -1,0 +1,14 @@
+{
+    // try to make semantic highlighting look good
+    "editor.semanticHighlighting.enabled": true,
+    // prevents VSCode from modifying the terminal colors
+    "terminal.integrated.minimumContrastRatio": 1,
+    // makes the window's titlebar use the workbench colors
+    "window.titleBarStyle": "custom",
+    "catppuccin.accentColor": "mauve",
+    "window.zoomLevel": 1.15,
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "editor.fontSize": 13,
+    "editor.fontFamily": "'0xProto Nerd Font', 'monospace', monospace"
+}
