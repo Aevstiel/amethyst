@@ -97,3 +97,4 @@ If following these steps doesn't work, kindly submit and issue and I will get ba
 
 - Upload the Icons and Cursor
 - Add instructions for the rest
+- Add configuration files for the extensions(Clock widget, weather widgets, and fly pie's application switcher)
