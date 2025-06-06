@@ -1,4 +1,3 @@
-<video width=800 src="https://github.com/aevstiel/amethyst/raw/master/git/assets/preview.mp4">
 
 <h3 align="center">
   Amethyst Dotfiles
