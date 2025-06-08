@@ -5,13 +5,13 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/pivoshenko/catppuccin-startpage/stargazers">
+  <a href="https://github.com/Aevstiel/amethyst/stargazers">
     <img src="https://img.shields.io/github/stars/Aevstiel/amethyst?style=for-the-badge&logo=starship&color=a6e3a1&logoColor=D9E0EE&labelColor=302D41">
   </a>
-  <a href="https://github.com/pivoshenko/catppuccin-startpage/issues">
+  <a href="https://github.com/Aevstiel/amethyst/issues">
     <img src="https://img.shields.io/github/issues/Aevstiel/amethyst?style=for-the-badge&logo=gitbook&color=fab387&logoColor=D9E0EE&labelColor=302D41">
   </a>
-  <a href="https://github.com/pivoshenko/catppuccin-startpage/contributors">
+  <a href="https://github.com/Aevstiel/amethyst/contributors">
     <img src="https://img.shields.io/github/contributors/Aevstiel/amethyst?style=for-the-badge&logo=github&color=f38ba8&logoColor=D9E0EE&labelColor=302D41">
   </a>
 </p>
